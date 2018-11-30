@@ -1,0 +1,16 @@
+.basic {
+  background-color: #999;
+  margin: 0;
+}
+
+.nav-bar {
+  height: 10vh;
+  width: 100vw;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.content {
+  
+}
